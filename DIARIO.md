@@ -368,7 +368,26 @@ server.mjs
 Esto confirmó que Jenkins había construido correctamente la aplicación y almacenado los artefactos generados.
 
 ---
+# Capturas
+## Imagen 1
 
+![Imagen 1](Capturas/Imagen1.png)
+
+---
+
+## Imagen 2
+
+![Imagen 2](Capturas/Imagen2.png)
+
+---
+
+## Imagen 3
+
+![Imagen 3](Capturas/Imagen3.png)
+
+## Imagen 4
+
+![Imagen 4](Capturas/Imagen4.png)
 # Conclusiones
 
 Con esta práctica se consiguió implementar correctamente un pipeline CI/CD básico utilizando Jenkins y GitHub sobre una aplicación backend Node.js. Se automatizó la instalación de dependencias, generación de archivos, validación del código, ejecución de pruebas y construcción del proyecto, además del archivado automático de artefactos.
